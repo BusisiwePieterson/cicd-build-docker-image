@@ -1,7 +1,4 @@
 <h6>Built Docker Image and Pushed it to Docker Hub </h6>
-<img src="Codebuild screenshot.png" width="800px">
-
-<img src="dockerhub.png" width="800px">
 
 - Created a Repository in Docker Hub
 - Created the Dockerfile
@@ -10,4 +7,14 @@
 - Created the Buildspec File
 - Created Personal Access Token
 - Created Build Project in CodeBuild
+- 
+<img src="Codebuild screenshot.png" width="800px">
+
+<img src="dockerhub.png" width="800px">
+
+
+
+
+
+
 
